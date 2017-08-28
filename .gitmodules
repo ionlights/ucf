@@ -1,0 +1,12 @@
+[submodule "ucf-cop3503"]
+	path = ucf-cop3503
+	url = git@github.com:ionlights/ucf-cop3503.git
+[submodule "ucf-cap5415"]
+	path = ucf-cap5415
+	url = git@github.com:ionlights/ucf-cap5415.git
+[submodule "ucf-cop4331"]
+	path = ucf-cop4331
+	url = git@github.com:ionlights/ucf-cop4331.git
+[submodule "ucf-cap5512"]
+	path = ucf-cap5512
+	url = git@github.com:ionlights/ucf-cap5512.git
